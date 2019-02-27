@@ -6,6 +6,8 @@ I made a simple Github user profile search application using HTML, CSS, Javascri
  Jessica Katelyn Blomer
  <br>katelynblomer@gmail.com
 
+ https://jkblomer.github.io/Github_Profile_Finder/
+
 ### Technology Used
 HTML5, CSS3, Bootstrap4, Javascript, jQuery and Ajax
 
